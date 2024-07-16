@@ -1,10 +1,11 @@
 package org.example.P4FactoryMethod.idcard;
 
-import org.example.P4FactoryMethod.Main;
 import org.example.P4FactoryMethod.framework.Factory;
 import org.example.P4FactoryMethod.framework.Product;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Random;
 
 public class IDCardFactory extends Factory {
 

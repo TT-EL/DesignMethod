@@ -1,7 +1,5 @@
 package org.example.P23Interpreter;
 
-import org.example.P22Command.command.Command;
-
 import java.util.ArrayList;
 import java.util.List;
 

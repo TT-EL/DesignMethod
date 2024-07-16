@@ -1,7 +1,5 @@
 package org.example.P8AbstractFactory.listFactory;
 
-import org.example.P1Iterator.Iterator;
-import org.example.P8AbstractFactory.factory.Item;
 import org.example.P8AbstractFactory.factory.Tray;
 
 public class ListTray extends Tray {

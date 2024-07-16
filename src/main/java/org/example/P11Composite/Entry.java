@@ -1,8 +1,5 @@
 package org.example.P11Composite;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * 表示目录条目的抽象类
  */

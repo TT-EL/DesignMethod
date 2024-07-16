@@ -1,7 +1,6 @@
 package org.example.P20Flyweight;
 
 import java.io.BufferedReader;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 

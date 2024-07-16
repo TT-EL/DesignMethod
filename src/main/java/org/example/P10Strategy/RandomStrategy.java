@@ -1,7 +1,6 @@
 package org.example.P10Strategy;
 
 import java.util.Random;
-import java.util.Timer;
 
 /**
  * 习题10-1 随机出手势的类
